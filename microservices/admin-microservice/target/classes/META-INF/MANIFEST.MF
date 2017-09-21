@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: lms-microservice
+Implementation-Version: 1.5.2.RELEASE
+Built-By: lerr
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/lms-microser
+ vice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
