@@ -1,0 +1,13 @@
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/library/hbm/entities/TblBookLoans.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/library/hbm/entities/TblBookCopiesId.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/AdminController.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/library/hbm/entities/TblBookCopies.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/library/hbm/entities/TblBook.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/library/hbm/entities/TblBookLoansId.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/library/hbm/entities/TblPublisher.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/library/hbm/entities/TblLibraryBranch.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/library/hbm/entities/TblBorrower.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/library/hbm/entities/TblAuthor.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/library/hbm/entities/TblGenre.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/LMSConfig.java
+/home/lerr/GCIT_reference/lms-microservice/src/main/java/com/gcit/RestApplication.java
