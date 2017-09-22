@@ -1,0 +1,13 @@
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/BorrowerController.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/RestApplication.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/library/hbm/entities/TblBookCopies.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/library/hbm/entities/TblGenre.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/library/hbm/entities/TblAuthor.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/LMSConfig.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/library/hbm/entities/TblBook.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/library/hbm/entities/TblBookLoans.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/library/hbm/entities/TblPublisher.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/library/hbm/entities/TblBookLoansId.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/library/hbm/entities/TblBorrower.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/library/hbm/entities/TblLibraryBranch.java
+/home/ec2-user/.jenkins/workspace/makejar/src/main/java/com/gcit/library/hbm/entities/TblBookCopiesId.java

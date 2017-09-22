@@ -1,0 +1,13 @@
+com/gcit/library/hbm/entities/TblBookLoansId.class
+com/gcit/library/hbm/entities/TblLibraryBranch.class
+com/gcit/library/hbm/entities/TblBook.class
+com/gcit/library/hbm/entities/TblBorrower.class
+com/gcit/library/hbm/entities/TblBookCopies.class
+com/gcit/LMSConfig.class
+com/gcit/library/hbm/entities/TblGenre.class
+com/gcit/RestApplication.class
+com/gcit/library/hbm/entities/TblBookLoans.class
+com/gcit/library/hbm/entities/TblPublisher.class
+com/gcit/library/hbm/entities/TblAuthor.class
+com/gcit/BorrowerController.class
+com/gcit/library/hbm/entities/TblBookCopiesId.class
